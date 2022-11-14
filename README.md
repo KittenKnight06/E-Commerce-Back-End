@@ -22,9 +22,10 @@ Based on the starter code, build the back end for an e-commerce site by configur
 # How to use the app
 Users can view, add, edit or delete data via Insomnia, by using the command like "GET, POST, PULL and DELETE.
 
+![image](./Insomnia.png)
 
+### A [walkthrough video](https://youtu.be/fB1M9KO1qos) is posted to demonstrate the functionality of the app and how to use it.
 
-A walkthrough video is posted to demonstrate the functionality of the app and how to use it.
 
 # License
 MIT
